@@ -1,2 +1,2 @@
-# Java
-Java Programs
+# Digital Clock Using JAVA
+Simple Digital Clock Using JAVA
